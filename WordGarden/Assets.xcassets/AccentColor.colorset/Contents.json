@@ -2,6 +2,15 @@
   "colors" : [
     {
       "idiom" : "universal"
+    },
+    {
+      "idiom" : "iphone"
+    },
+    {
+      "idiom" : "ipad"
+    },
+    {
+      "idiom" : "mac"
     }
   ],
   "info" : {
